@@ -2,7 +2,7 @@
 
 ![Skills Banner](https://i.ibb.co/YcHzWFh/Untitled-design-18.png)
 
-I'm a passionate technologist and entrepreneur with expertise in Python, Postgres, Web Scraping, Django, Docker, Git, AlpineJS, HTMX, and JavaScript. I specialize in building robust web applications and automating data extraction processes. My goal is to leverage modern web technologies to create scalable and efficient solutions.
+I'm a passionate technologist and entrepreneur with expertise in Python, Postgres, Web Scraping, Django, Docker, Git, AlpineJS, HTMX, and JavaScript. I specialize in building robust web applications and automating data extraction processes. My goal is to leverage modern web technologies and data to create simple and scalable solutions. I like to get things done and hate over engineering.
 
 ## What I Do
 
